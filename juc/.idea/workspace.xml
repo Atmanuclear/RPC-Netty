@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96707464-fe29-4829-9bcc-a5c31f7ddaff" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第七八章.交易优化/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第三章.云端部署/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第九章.流量削峰技术/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/ItemController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/viewobject/ItemVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/viewobject/UserVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/controller/viewobject/ZuulException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/ItemDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/ItemStockDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/OrderDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/PromoDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/SequenceDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/UserDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dao/UserPasswordDOMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/ItemDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/ItemStockDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/OrderDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/PromoDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/SequenceDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/UserDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/dataobject/UserPasswordDO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/error/BusinessException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/error/CommonError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/error/EmBusinessError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/response/CommonReturnType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/ItemService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/PromoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/impl/ItemServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/impl/PromoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/model/ItemModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/model/OrderModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/model/PromoModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/service/model/UserModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/validator/ValidationResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/com/imooc/miaoshaproject/validator/ValidatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/ItemDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/ItemStockDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/OrderDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/PromoDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/SequenceDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/UserDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mapping/UserPasswordDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第二章.秒杀回顾/miaoshaStable/target/classes/mybatis-generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第五六章.查询优化/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第十章.防刷限流技术/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiaoShaAll/dianshangmiaosha/第四章.分布式扩展/miaoshaStable/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/Netty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/src/main/java/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/src/main/java/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/src/main/java/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/Kryo/Kryo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/Kryo/src/main/java/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/Kryo/src/main/java/kryoSerialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/My-RPC-Framework-2.0/My-RPC-Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/My-RPC-Framework-2.0/rpc-api/rpc-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/My-RPC-Framework-2.0/rpc-common/rpc-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/My-RPC-Framework-2.0/rpc-core/rpc-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/My-RPC-Framework-2.0/test-client/test-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-04/My-RPC-Framework-2.0/test-server/test-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/RPC-7DAYS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/CommonDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/CommonEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/CommonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/DefaultServiceRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/HelloObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/JsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/KryoSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RequestHandlerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RpcClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RpcClientProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RpcException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/RpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/ServiceRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/enumeration/PackageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/enumeration/ResponseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/enumeration/RpcError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/main/java/enumeration/SerializerCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/test/java/NettyTestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/test/java/NettyTestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/test/java/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPC-7DAYS/src/test/java/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/RRRRRRPC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/CglibProxy/AliSmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/CglibProxy/CglibProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/CglibProxy/DeBugMethodIntercepter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/CglibProxy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/JdkProxy/DemoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/JdkProxy/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/JdkProxy/DeuBugInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/JdkProxy/JdkProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RRRRRRPC/src/main/java/JdkProxy/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__com_esotericsoftware_kryo_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__io_netty_netty_all_4_1_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/Socket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/client/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/client/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/docec/NettyKryoDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/docec/NettyKryoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/dto/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/dto/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/serialize/KryoSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/serialize/SerializeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/serialize/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/server/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/netty/kyro/server/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/cglibDynamicProxy/AliSmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/cglibDynamicProxy/CglibProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/cglibDynamicProxy/DebugMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/cglibDynamicProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/dynamicProxy/jdkDynamicProxy/DebugInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/dynamicProxy/jdkDynamicProxy/JdkProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/dynamicProxy/jdkDynamicProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/dynamicProxy/jdkDynamicProxy/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/dynamicProxy/jdkDynamicProxy/SmsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/staticProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/staticProxy/SmsProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/staticProxy/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/proxy/staticProxy/SmsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/socket/HelloClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/socket/HelloSever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/main/java/socket/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocketSever/SocketSever.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocketSever/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocketSever/src/main/java/HelloSever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/guide-rpc-framework-learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/echo/HelloClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/echo/HelloClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/echo/HelloServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/echo/HelloServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/client/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/client/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/codec/NettyKryoDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/codec/NettyKryoEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/dto/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/dto/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/serialize/KryoSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/serialize/SerializeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/serialize/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/server/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/netty/kyro/server/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/cglibDynamicProxy/AliSmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/cglibDynamicProxy/CglibProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/cglibDynamicProxy/DebugMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/cglibDynamicProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/jdkDynamicProxy/DebugInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/jdkDynamicProxy/JdkProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/jdkDynamicProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/jdkDynamicProxy/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/dynamicProxy/jdkDynamicProxy/SmsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/staicProxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/staicProxy/SmsProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/staicProxy/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/proxy/staicProxy/SmsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/socket/HelloClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/socket/HelloServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guide-rpc-framework-learning-master/src/main/java/github/javaguide/socket/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/17863.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/miaosha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/controller/viewobject/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/dataobject/UserPasswordDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/error/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/error/CommonError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/error/EmBusinessError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/response/CommonReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/service/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/validator/ValidationResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/miaoshaproject/validator/ValidatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/main/resources/mybatis-generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miaosha/src/test/java/com/miaoshaproject/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="juc" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asList</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[15]三数之和.java" />
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[18]四数之和.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[344]反转字符串.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1462" />
+    <option name="height" value="1716" />
+  </component>
+  <component name="ProjectId" id="23bPrL5nrVEnpdBwBVMvdrd5vNV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96707464-fe29-4829-9bcc-a5c31f7ddaff" name="Default" comment="" />
+      <created>1630996946763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630996946763</updated>
+      <workItem from="1630996949645" duration="879000" />
+      <workItem from="1631613378047" duration="1058000" />
+      <workItem from="1631672265426" duration="2221000" />
+      <workItem from="1631686015474" duration="871000" />
+      <workItem from="1636873902374" duration="5368000" />
+      <workItem from="1642000013745" duration="59000" />
+      <workItem from="1645932201810" duration="2450000" />
+      <workItem from="1646100204172" duration="2729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10397000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1453" height="865" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329235" sideWeight="0.49426112" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329235" sideWeight="0.50573885" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21807748" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.49713057" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26190478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/17863.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Enviroment/java/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1591">
+          <caret line="3798" column="36" lean-forward="false" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[15]三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[18]四数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="56" column="38" lean-forward="false" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[344]反转字符串.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[344]反转字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 05]替换空格.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[151]翻转字符串里的单词.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>juc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
